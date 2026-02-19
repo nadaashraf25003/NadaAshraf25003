@@ -4,8 +4,7 @@
 
 <h3 align="center">
 Full Stack .NET & React Developer <br>
-Digital Design Engineering <br>
-Communications & Electronics Engineering Student
+Comm. & Electronics Engineering
 </h3>
 
 ###
