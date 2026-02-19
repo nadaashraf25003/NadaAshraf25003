@@ -2,9 +2,14 @@
 
 ###
 
-<h3 align="center">Communications and Computers Engineer <br> Front-End Developer</h3>
+<h3 align="center">
+Full Stack .NET & React Developer <br>
+Digital Design Engineering <br>
+Communications & Electronics Engineering Student
+</h3>
 
 ###
+
 
 <h3 align="left">Skills</h3>
 
